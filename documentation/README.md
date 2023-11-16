@@ -132,13 +132,6 @@ Embark on this journey with me as we:
 ## Datasets
 Datasets used in the program are organized in the datasets folder. Each dataset has its individual folder with respective data files.
 
-## Getting Started
-
-Ready to embark on this journey? Clone the repository to access the program content:
-
-```bash
-git clone [repository_link]
-
 
 
 
