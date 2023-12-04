@@ -1,5 +1,6 @@
 # Master's in Computer Engineering and Automation (AI Focus) - Study Plan
 
+Dive into my Data Science completed repository  by following this link: : [Data Science repository](https://github.com/LeonDoungala22/Data-Science-training)
 ## Foundations (Weeks 1-2)
 
 ### Week 1: Python and Math
