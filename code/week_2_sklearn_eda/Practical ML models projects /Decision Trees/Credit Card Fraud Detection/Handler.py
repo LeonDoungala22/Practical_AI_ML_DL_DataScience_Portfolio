@@ -139,39 +139,6 @@ def save_dataset(data, file_path):
         print(f"Data saved successfully: {file_path}")
         
         
-########################################
 
-def balance_classes(X_train, y_train, desired_ratio=1/3, random_state=42):
-    # Combine features and labels into a single DataFrame
-    df = pd.concat([X_train, y_train], axis=1)
-
-    # Separate majority and minority classes
-    df_majority = df[df['Class'] == 0]
-    df_minority = df[df['Class'] == 1]
-
-    # Determine the number of instances needed for the minority class
-    target_minority_size = int(len(df_majority) * (2 * desired_ratio))  # 2/3 of class 1
-
-    # Check if the minority class has at least one instance
-    if not df_minority.empty:
-        # Check if the target minority size is greater than zero
-        if target_minority_size > 0:
-            # Oversample the minority class
-            df_minority_oversampled = df_minority.sample(n=target_minority_size, replace=True, random_state=random_state)
-
-            # Concatenate the oversampled minority class with the majority class
-            df_balanced = pd.concat([df_majority, df_minority_oversampled])
-
-            # Shuffle the DataFrame to mix the classes
-            df_balanced = df_balanced.sample(frac=1, random_state=random_state).reset_index(drop=True)
-
-            # Separate features and labels
-            X_balanced = df_balanced.drop('Class', axis=1)
-            y_balanced = df_balanced['Class']
-
-            return X_balanced, y_balanced
-    else:
-        # If the minority class has no instances, return the original data
-        return X_train, y_train
 
 
