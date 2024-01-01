@@ -1,4 +1,4 @@
-# Master's in Computer Engineering and Automation (AI Focus) - Study Plan
+# Master's in Computer Engineering and Automation (AI Focus) - My Personal Study Plan
 
 ## Foundations (Weeks 1-2)
 
