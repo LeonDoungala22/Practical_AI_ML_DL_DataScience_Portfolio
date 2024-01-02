@@ -55,20 +55,24 @@
 - **Skills:** Master AWS for ML.
 - **Resources:** Explore [AWS documentation](https://docs.aws.amazon.com/machine-learning/).
 
-## Deep Learning Basics (Weeks 5-6)
+## Automation and Deep Learning Basics (Weeks 5-6)
 
-### Week 5: Git and Intro to Deep Learning
-- **Content:** Command version control with Git and basics of Deep Learning.
-- **Skills:** Aim for proficiency in [Git](https://git-scm.com/), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/).
+### Week 5: Git, Automation, and Intro to Deep Learning
+- **Content:** Command version control with Git, explore automation tools, and basics of Deep Learning.
+- **Skills:** Aim for proficiency in [Git](https://git-scm.com/), and understand automation concepts.
 - **Resources:** 
   - [Git and GitHub courses](https://lab.github.com/)
+  - Automation tools introduction.
   - [TensorFlow documentation](https://www.tensorflow.org/learn)
   - [PyTorch documentation](https://pytorch.org/tutorials/)
 
-### Week 6: Fundamentals of Deep Learning
-- **Content:** Uncover the basics of Deep Learning and neural networks.
-- **Skills:** Establish a strong foundation in Deep Learning basics.
-- **Resources:** Refer to online courses and tutorials.
+### Week 6: Advanced Automation and Fundamentals of Deep Learning
+- **Content:** Dive deeper into automation techniques and uncover the basics of Deep Learning and neural networks.
+- **Skills:** Apply automation for ML workflows, and establish a strong foundation in Deep Learning basics.
+- **Resources:** 
+  - Advanced automation tools and practices.
+  - Online courses and tutorials for deep learning.
+    
 
 ## Advanced Deep Learning and Computer Vision (Weeks 7-8)
 
