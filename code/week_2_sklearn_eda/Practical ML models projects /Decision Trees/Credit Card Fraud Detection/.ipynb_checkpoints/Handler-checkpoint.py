@@ -140,5 +140,45 @@ def save_dataset(data, file_path):
         
         
 
+##############################
+
+
+from sklearn.metrics import precision_score, recall_score, f1_score
+
+def plot_model_Performace_comparison(X_train, y_train, y_test, y_test_pred, y_train_pred):
+   
+    # Calculate precision, recall, and F1 score for both training and test sets
+    precision_train = precision_score(y_train, y_train_pred, average='binary')  
+    recall_train = recall_score(y_train, y_train_pred, average='binary') 
+    f1_train = f1_score(y_train, y_train_pred, average='binary')  
+
+    precision_test = precision_score(y_test, y_test_pred, average='binary')  
+    recall_test = recall_score(y_test, y_test_pred, average='binary') 
+    f1_test = f1_score(y_test, y_test_pred, average='binary') 
+
+    # Create a bar plot
+    metrics = ['Precision', 'Recall', 'F1 Score']
+    train_scores = [precision_train, recall_train, f1_train]
+    test_scores = [precision_test, recall_test, f1_test]
+
+    bar_width = 0.1   
+    index = np.arange(len(metrics))
+
+    fig, ax = plt.subplots()
+    bar1 = ax.bar(index, train_scores, bar_width, label='Train')
+    bar2 = ax.bar(index + bar_width, test_scores, bar_width, label='Test')
+
+    ax.set_xlabel('Metrics')
+    ax.set_ylabel('Scores')
+    ax.set_title('Model Performance on Train and Test Sets')
+    ax.set_xticks(index + bar_width / 2)
+    ax.set_xticklabels(metrics)
+    ax.legend()
+
+    plt.show()
+
+# Example usage:
+# plot_model_comparison(X_train, y_train, y_test, y_test_pred, y_train_pred)
+
 
 
