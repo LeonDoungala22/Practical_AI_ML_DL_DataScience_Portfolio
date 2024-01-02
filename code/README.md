@@ -10,7 +10,7 @@
   - [Khan Academy - Math](https://www.khanacademy.org/math)
   - [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
 
-### Week 2: Scikit-Learn, Basic ML Models, EDA
+### Week 2: Scikit-Learn, Basic ML Models, EDA, and ML Practice Projects
 - **Content:** Master EDA techniques and basics of ML algorithms using scikit-learn.
 - **Skills:** Hone skills in EDA techniques and data understanding.
 - **Resources:** 
@@ -36,18 +36,18 @@
   - [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
   - [PapersWithCode](https://paperswithcode.com/)
 - **Advanced ML Models:**
-  9. Ensembles (Gradient Boosting, Random Forests, Bagging, Voting, Stacking)
-  10. K-Means Clustering
-  11. Neural Networks (including CNNs and RNNs)
-  12. Gradient Boosting Models (e.g., XGBoost)
-  13. Naive Bayes
-  14. Principal Component Analysis (PCA)
-  15. Recurrent Neural Networks (RNN) and LSTM
-  16. AdaBoost
-  17. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
-  18. Gaussian Mixture Models (GMM)
-  19. Autoencoders (used in unsupervised learning for feature learning)
-  20. Word Embeddings (e.g., Word2Vec, GloVe) - often used in natural language processing tasks
+    9. Ensembles (Gradient Boosting, Random Forests, Bagging, Voting, Stacking)
+    10. K-Means Clustering
+    11. Neural Networks (including CNNs and RNNs)
+    12. Gradient Boosting Models (e.g., XGBoost)
+    13. Naive Bayes
+    14. Principal Component Analysis (PCA)
+    15. Recurrent Neural Networks (RNN) and LSTM
+    16. AdaBoost
+    17. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+    18. Gaussian Mixture Models (GMM)
+    19. Autoencoders (used in unsupervised learning for feature learning)
+    20. Word Embeddings (e.g., Word2Vec, GloVe) - often used in natural language processing tasks
 
 ### Week 4: AWS for Machine Learning
 - **Content:** Leverage AWS for ML.
