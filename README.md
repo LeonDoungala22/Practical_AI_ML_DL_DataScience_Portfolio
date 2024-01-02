@@ -1,93 +1,118 @@
-# Master's in Computer Engineering and Automation (AI Focus) - My personal Training Plan
+# Master's in Computer Engineering and Automation (AI Focus) - 6-Month Personal Study Plan
 
-Dive into my Data Science completed repository  by following this link: : [Data Science repository](https://github.com/LeonDoungala22/Data-Science-training)
 ## Foundations (Weeks 1-2)
 
 ### Week 1: Python and Math
-- **Content:** Python fundamentals and mathematical concepts.
-- **Skills:** Proficiency in Python programming and basic mathematics.
-- **Resources:** Coursera Python for Everybody, Khan Academy - Math, NumPy Quickstart Tutorial.
+- **Content:** Focus on Python fundamentals and mathematical concepts.
+- **Skills:** Aim for proficiency in Python programming and basic mathematics.
+- **Resources:** 
+  - [Coursera Python for Everybody](https://www.coursera.org/specializations/python)
+  - [Khan Academy - Math](https://www.khanacademy.org/math)
+  - [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
 
-### Week 2: Exploratory Data Analysis (EDA)
-- **Content:** Mastering EDA techniques.
+### Week 2: Scikit-Learn, Basic ML Models, EDA, and ML Practice Projects
+- **Content:** Master EDA techniques and basics of ML algorithms using scikit-learn.
 - **Skills:** Hone skills in EDA techniques and data understanding.
-- **Resources:** Online courses focusing on EDA.
+- **Resources:** 
+  - Online courses focusing on EDA.
+  - [Scikit-learn documentation](https://scikit-learn.org/stable/documentation.html)
+  - Introductory ML courses.
+- **Basic ML Models:**
+  1. Linear Regression
+  2. Support Vector Machines (SVM)
+  3. Decision Trees
+  4. Random Forest
+  5. Logistic Regression
+  6. Naive Bayes
+  7. K-Nearest Neighbors (KNN)
+  8. Gradient Descent (used in various algorithms, e.g., for training neural networks)
 
-## Basic Machine Learning and AWS (Weeks 3-4)
+## Advanced ML and AWS (Weeks 3-4)
 
-### Week 3: Basic Machine Learning with scikit-learn
-- **Content:** Introduction to basic ML algorithms using scikit-learn.
-- **Skills:** Build foundational skills in ML.
-- **Resources:** Scikit-learn documentation, introductory ML courses.
-
-### Week 4: Advanced ML with scikit-learn
+### Week 3: Advanced ML with scikit-learn
 - **Content:** Dive into advanced ML algorithms.
 - **Skills:** Master advanced ML techniques.
-- **Resources:** Coursera Machine Learning Specialization, PapersWithCode.
+- **Resources:** 
+  - [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
+  - [PapersWithCode](https://paperswithcode.com/)
+- **Advanced ML Models:**
 
-### Week 5: AWS for Machine Learning
+    9. Ensembles (Gradient Boosting, Random Forests, Bagging, Voting, Stacking)
+    10. K-Means Clustering
+    11. Neural Networks (including CNNs and RNNs)
+    12. Gradient Boosting Models (e.g., XGBoost)
+    13. Naive Bayes
+    14. Principal Component Analysis (PCA)
+    15. Recurrent Neural Networks (RNN) and LSTM
+    16. AdaBoost
+    17. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+    18. Gaussian Mixture Models (GMM)
+    19. Autoencoders (used in unsupervised learning for feature learning)
+    20. Word Embeddings (e.g., Word2Vec, GloVe) - often used in natural language processing tasks
+
+### Week 4: AWS for Machine Learning
 - **Content:** Leverage AWS for ML.
 - **Skills:** Master AWS for ML.
-- **Resources:** Explore AWS documentation.
+- **Resources:** Explore [AWS documentation](https://docs.aws.amazon.com/machine-learning/).
 
-## Deep Learning Basics (Weeks 6-7)
+## Automation and Deep Learning Basics (Weeks 5-6)
 
-### Week 6: Git and Intro to Deep Learning
-- **Content:** Command version control with Git and basics of Deep Learning.
-- **Skills:** Proficiency in Git, TensorFlow, and PyTorch.
-- **Resources:** Git and GitHub courses, TensorFlow and PyTorch documentation.
+### Week 5: Git, Automation, and Intro to Deep Learning
+- **Content:** Command version control with Git, explore automation tools, and basics of Deep Learning.
+- **Skills:** Aim for proficiency in [Git](https://git-scm.com/), and understand automation concepts.
+- **Resources:** 
+  - [Git and GitHub courses](https://lab.github.com/)
+  - Automation tools introduction.
+  - [TensorFlow documentation](https://www.tensorflow.org/learn)
+  - [PyTorch documentation](https://pytorch.org/tutorials/)
 
-### Week 7: Fundamentals of Deep Learning
-- **Content:** Uncover the basics of Deep Learning and neural networks.
-- **Skills:** Establish a strong foundation in Deep Learning basics.
-- **Resources:** Online courses and tutorials.
+### Week 6: Advanced Automation and Fundamentals of Deep Learning
+- **Content:** Dive deeper into automation techniques and uncover the basics of Deep Learning and neural networks.
+- **Skills:** Apply automation for ML workflows, and establish a strong foundation in Deep Learning basics.
+- **Resources:** 
+  - Advanced automation tools and practices.
+  - Online courses and tutorials for deep learning.
+    
 
-## Deep Learning Advanced and Computer Vision (Weeks 8-9)
+## Advanced Deep Learning and Computer Vision (Weeks 7-8)
 
-### Week 8: Advanced Deep Learning Techniques
+### Week 7: Advanced Deep Learning Techniques
 - **Content:** Explore advanced Deep Learning techniques.
 - **Skills:** Command advanced Deep Learning.
 - **Resources:** Specialized courses and research articles.
 
-### Week 9: Computer Vision Basics and OpenCV
-- **Content:** Grasp the fundamentals of Computer Vision and OpenCV.
+### Week 8: Computer Vision Basics and OpenCV
+- **Content:** Grasp the fundamentals of Computer Vision and [OpenCV](https://opencv.org/).
 - **Skills:** Navigate Computer Vision basics and OpenCV.
 - **Resources:** Online courses, documentation, and tutorials.
 
-## Advanced Generative AI (Week 10)
+## Advanced AI and Big Data (Weeks 9-10)
 
-### Week 10: Advanced Generative AI and GANs
+### Week 9: Advanced Generative AI and GANs
 - **Content:** Delve into Generative Adversarial Networks (GANs).
 - **Skills:** Master GANs and sequence models.
-- **Resources:** Specialized courses and research articles.
+- **Resources:** Explore specialized courses and research articles.
 
-## Big Data and AI (Weeks 11-12)
-
-### Week 11: Introduction to Big Data in AI
+### Week 10: Introduction to Big Data in AI
 - **Content:** Grasp the basics of Big Data in the context of AI.
-- **Skills:** Master Apache Spark and Hadoop.
-- **Resources:** Apache Spark documentation, Hadoop tutorials.
+- **Skills:** Master [Apache Spark](https://spark.apache.org/) and [Hadoop](https://hadoop.apache.org/).
+- **Resources:** [Apache Spark documentation](https://spark.apache.org/docs/latest/), [Hadoop tutorials](https://hadoop.apache.org/docs/stable/).
 
-### Week 12: Advanced Big Data Applications in AI
-- **Content:** Explore advanced applications of Big Data in AI projects.
-- **Skills:** Navigate advanced Big Data applications.
-- **Resources:** Relevant documentation and tutorials.
+## Model Evaluation, AI Ethics, History, and Applications (Weeks 11-12)
 
-## Model Evaluation, AI Ethics, History, and Applications (Weeks 13-14)
-
-### Week 13: Model Evaluation and Hyperparameter Tuning
-- **Content:** Techniques for model evaluation and hyperparameter tuning.
+### Week 11: Model Evaluation and Hyperparameter Tuning
+- **Content:** Explore techniques for model evaluation and hyperparameter tuning.
 - **Skills:** Command model evaluation and hyperparameter tuning.
 - **Resources:** Articles and documentation on model optimization.
 
-### Week 14: AI Ethics, History, and Current Applications
+### Week 12: AI Ethics, History, and Current Applications
 - **Content:** Reflect on ethical considerations in AI, historical overview, and current applications.
 - **Skills:** Develop skills in ethical decision-making and historical understanding.
-- **Resources:** Attend lectures, read articles on AI ethics, engage in historical research.
+- **Resources:** Attend lectures, read articles on AI ethics, and engage in historical research.
 
-## Advanced Projects, AI Trends, and Thesis (Weeks 15-16)
+## Advanced Projects and Thesis Preparation (Weeks 13-16)
 
-### Week 15: Tackling Advanced AI Projects
+### Week 13-15: Tackling Advanced AI Projects
 - **Content:** Work on advanced AI projects.
 - **Skills:** Command implementation and project management.
 - **Resources:** Research articles, online conferences, specialized blogs.
@@ -95,14 +120,14 @@ Dive into my Data Science completed repository  by following this link: : [Data 
 ### Week 16: Exploring Emerging AI Trends and Thesis Preparation
 - **Content:** Explore emerging AI trends and start thesis preparation.
 - **Skills:** Stay abreast of AI trends, initiate thesis research.
-- **Resources:** Research articles, online conferences, specialized blogs, thesis guidelines.
+- **Resources:** Research articles, online conferences, specialized blogs, and thesis guidelines.
 
 ## Thesis (Continued)
 
 ### Ongoing: Thesis Research and Writing
 - **Tasks:** Conduct research, gather data, and write the thesis.
 - **Skills:** Apply research and writing skills.
-- **Resources:** Academic journals, thesis advisor guidance.
+- **Resources:** Utilize academic journals and receive guidance from the thesis advisor.
 
 ## Datasets
-Datasets used in the program are organized in the datasets folder. Each dataset has its individual folder with respective data files.
+- Datasets used in the program are organized in the [datasets folder](path_to_datasets_folder). Each dataset has its individual folder with respective data files.
