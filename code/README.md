@@ -36,6 +36,7 @@
   - [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
   - [PapersWithCode](https://paperswithcode.com/)
 - **Advanced ML Models:**
+
     9. Ensembles (Gradient Boosting, Random Forests, Bagging, Voting, Stacking)
     10. K-Means Clustering
     11. Neural Networks (including CNNs and RNNs)
