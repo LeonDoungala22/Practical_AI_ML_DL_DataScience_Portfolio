@@ -1,4 +1,4 @@
-# Master's in Computer Engineering and Automation (AI Focus) - 6-Month Study Plan
+# Master's in Computer Engineering and Automation (AI Focus) - 6-Month Personal Study Plan
 
 ## Foundations (Weeks 1-2)
 
@@ -17,10 +17,15 @@
   - Online courses focusing on EDA.
   - [Scikit-learn documentation](https://scikit-learn.org/stable/documentation.html)
   - Introductory ML courses.
-- **Models:** 
-  - Linear Regression
-  - Support Vector Machines (SVM)
-  - Decision Trees
+- **Basic ML Models:**
+  1. Linear Regression
+  2. Support Vector Machines (SVM)
+  3. Decision Trees
+  4. Random Forest
+  5. Logistic Regression
+  6. Naive Bayes
+  7. K-Nearest Neighbors (KNN)
+  8. Gradient Descent (used in various algorithms, e.g., for training neural networks)
 
 ## Advanced ML and AWS (Weeks 3-4)
 
@@ -30,6 +35,19 @@
 - **Resources:** 
   - [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
   - [PapersWithCode](https://paperswithcode.com/)
+- **Advanced ML Models:**
+  9. Ensembles (Gradient Boosting, Random Forests, Bagging, Voting, Stacking)
+  10. K-Means Clustering
+  11. Neural Networks (including CNNs and RNNs)
+  12. Gradient Boosting Models (e.g., XGBoost)
+  13. Naive Bayes
+  14. Principal Component Analysis (PCA)
+  15. Recurrent Neural Networks (RNN) and LSTM
+  16. AdaBoost
+  17. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+  18. Gaussian Mixture Models (GMM)
+  19. Autoencoders (used in unsupervised learning for feature learning)
+  20. Word Embeddings (e.g., Word2Vec, GloVe) - often used in natural language processing tasks
 
 ### Week 4: AWS for Machine Learning
 - **Content:** Leverage AWS for ML.
