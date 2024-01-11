@@ -8,9 +8,11 @@ Develop a comprehensive analysis of the Diabetes Classification Dataset using en
 - Address missing values, outliers, and perform exploratory data analysis (EDA).
 - Utilize EDA visualizations to gain insights into key features.
 
-## 2. Feature Engineering and Data Preprossessing:
-
-- Data Preprossessing
+## 2. Feature Engineering:
+- Select relevant features based on the dataset analysis.
+- Explore feature importance and consider creating new features to enhance ensemble model performance.
+- **Add a new column: Disease_Type**
+  - Based on domain knowledge, create a new column that categorizes the type of diabetes when the diagnosis is positive. Consider categorizing into types such as Type 1, Type 2, or other relevant categories.
 
 ## 3. Ensemble Model Implementation:
 - Implement ensemble models: Gradient Boosting, Random Forests, Bagging, Voting, and Stacking.
@@ -33,9 +35,6 @@ Develop a comprehensive analysis of the Diabetes Classification Dataset using en
 - Characterize diabetes by identifying key features contributing to the condition.
 - Predict the likelihood of diabetes occurrence using the best-performing ensemble model.
 - Classify instances into disease and non-disease categories.
-- Apply PCA clustering to identify inherent patterns in the diabetes diagnosis data.
-- Investigate if the PCA components reveal distinct clusters.
-- Explore the possibility of automatically categorizing diabetes types (e.g., Type 1, Type 2) based on the identified patterns.
 - **Extend the classification:** Predict and visualize different diabetes types.
 
 ### Data Visualizations:
