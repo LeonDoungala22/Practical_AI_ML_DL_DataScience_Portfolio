@@ -3,16 +3,15 @@
 ## Objective
 Develop a comprehensive analysis of the Diabetes Classification Dataset using ensemble learning techniques, including Gradient Boosting, Random Forests, Bagging, Voting, and Stacking. The assignment aims to predict and characterize diabetes, including the inclusion of disease types.
 
-## 1. Data Exploration and Preprocessing:
+## 1. Data Exploration :
 - Load the [Diabetes Classification Dataset](https://data.world/informatics-edu/diabetes-prediction/workspace/file?filename=Diabetes_Classification.xlsx) and conduct an initial exploration.
 - Address missing values, outliers, and perform exploratory data analysis (EDA).
 - Utilize EDA visualizations to gain insights into key features.
 
-## 2. Feature Engineering:
+## 2. Feature Engineering and Preprocessing:
 - Select relevant features based on the dataset analysis.
 - Explore feature importance and consider creating new features to enhance ensemble model performance.
-- **Add a new column: Disease_Type**
-  - Based on domain knowledge, create a new column that categorizes the type of diabetes when the diagnosis is positive. Consider categorizing into types such as Type 1, Type 2, or other relevant categories.
+- Preprocessing 
 
 ## 3. Ensemble Model Implementation:
 - Implement ensemble models: Gradient Boosting, Random Forests, Bagging, Voting, and Stacking.
@@ -33,6 +32,9 @@ Develop a comprehensive analysis of the Diabetes Classification Dataset using en
 
 ## 7. Characterization, Prediction, and Classification:
 - Characterize diabetes by identifying key features contributing to the condition.
+- Apply PCA clustering to identify inherent patterns in the diabetes diagnosis data.
+- Investigate if the PCA components reveal distinct clusters.
+- Explore the possibility of automatically categorizing diabetes types (e.g., Type 1, Type 2) based on the identified patterns.
 - Predict the likelihood of diabetes occurrence using the best-performing ensemble model.
 - Classify instances into disease and non-disease categories.
 - **Extend the classification:** Predict and visualize different diabetes types.
