@@ -9,6 +9,11 @@ from scipy import stats
 from sklearn.model_selection import learning_curve
 import missingno as msno
 
+from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_score
+from sklearn.ensemble import VotingClassifier
+from tqdm import tqdm
+import time
+
 
 #####################################
 
@@ -67,12 +72,6 @@ def plot_learning_curve_with_overfitting_indicator(model, X, y, title):
 
 
 
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_score
-from sklearn.ensemble import VotingClassifier
-from tqdm import tqdm
-import time
 
 # Function to evaluate model performance
 def evaluate_model(model, X_test, y_test):
