@@ -38,19 +38,31 @@
   - [PapersWithCode](https://paperswithcode.com/)
 - **Advanced ML Models:**
   
-      9. Ensembles (Gradient Boosting, Random Forests, Bagging, Voting, Stacking)
-      10. K-Means Clustering
-      11. Neural Networks (including CNNs and RNNs)
-      12. Gradient Boosting Models (e.g., XGBoost)
-      13. Naive Bayes
-      14. Principal Component Analysis (PCA)
-      15. Recurrent Neural Networks (RNN) and LSTM
-      16. AdaBoost
-      17. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
-      18. Gaussian Mixture Models (GMM)
-      19. Autoencoders (used in unsupervised learning for feature learning)
-      20. Word Embeddings (e.g., Word2Vec, GloVe) - often used in natural language processing tasks
-  - **Projects:**
+      Certainly, here's a merged list of unsupervised machine learning algorithms:
+
+      1. Ensembles (Gradient Boosting, Random Forests, Bagging, Voting, Stacking)
+      2. K-Means Clustering
+      3. Neural Networks (including CNNs and RNNs)
+      4. Gradient Boosting Models (e.g., XGBoost)
+      5. Naive Bayes
+      6. Principal Component Analysis (PCA)
+      7. Recurrent Neural Networks (RNN) and LSTM
+      8. AdaBoost
+      9. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+      10. Gaussian Mixture Models (GMM)
+      11. Autoencoders (used in unsupervised learning for feature learning)
+      12. Word Embeddings (e.g., Word2Vec, GloVe) - often used in natural language processing tasks
+      13. Hierarchical Clustering
+      14. t-Distributed Stochastic Neighbor Embedding (t-SNE)
+      15. Non-negative Matrix Factorization (NMF)
+      16. Singular Value Decomposition (SVD)
+      17. Apriori Algorithm (Association Rule Mining)
+      18. Isolation Forest (Anomaly Detection)
+      19. One-Class Support Vector Machines (SVM) (Anomaly Detection)
+      20. Self-Organizing Maps (SOM)
+
+
+      - **Projects:**
      
 
 ### Week 4: Cloud Platforms for Machine Learning
