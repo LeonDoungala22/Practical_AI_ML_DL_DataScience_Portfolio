@@ -38,8 +38,7 @@
   - [PapersWithCode](https://paperswithcode.com/)
 - **Advanced ML Models:**
   
-      Certainly, here's a merged list of unsupervised machine learning algorithms:
-
+    
       1. Ensembles (Gradient Boosting, Random Forests, Bagging, Voting, Stacking)
       2. K-Means Clustering
       3. Neural Networks (including CNNs and RNNs)
