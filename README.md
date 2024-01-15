@@ -62,7 +62,7 @@
       20. Self-Organizing Maps (SOM)
 
 
-      - **Projects:**
+      - Projects:
      
 
 ### Week 4: Cloud Platforms for Machine Learning
