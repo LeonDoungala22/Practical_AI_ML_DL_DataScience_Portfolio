@@ -37,32 +37,35 @@
   - [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
   - [PapersWithCode](https://paperswithcode.com/)
 - **Advanced ML Models:**
-  
-    
-      1. Ensembles (Gradient Boosting, Random Forests, Bagging, Voting, Stacking)
-      2. K-Means Clustering
-      3. Neural Networks (including CNNs and RNNs)
-      4. Gradient Boosting Models (e.g., XGBoost)
-      5. Naive Bayes
-      6. Principal Component Analysis (PCA)
-      7. Recurrent Neural Networks (RNN) and LSTM
-      8. AdaBoost
-      9. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
-      10. Gaussian Mixture Models (GMM)
-      11. Autoencoders (used in unsupervised learning for feature learning)
-      12. Word Embeddings (e.g., Word2Vec, GloVe) - often used in natural language processing tasks
-      13. Hierarchical Clustering
-      14. t-Distributed Stochastic Neighbor Embedding (t-SNE)
-      15. Non-negative Matrix Factorization (NMF)
-      16. Singular Value Decomposition (SVD)
-      17. Apriori Algorithm (Association Rule Mining)
-      18. Isolation Forest (Anomaly Detection)
-      19. One-Class Support Vector Machines (SVM) (Anomaly Detection)
-      20. Self-Organizing Maps (SOM)
+        
+      1. Ensembles
+        - Gradient Boosting
+        - Random Forests
 
+      2. Clustering
+        - K-Means
+        - DBSCAN
 
-      - Projects:
-     
+      3. Dimensionality Reduction
+        - PCA (Principal Component Analysis)
+        - t-SNE (t-Distributed Stochastic Neighbor Embedding)
+
+      4. Boosting Algorithms
+        - XGboost
+        - AdaBoost
+
+      5. Word Embeddings (NLP)
+        - Word2Vec
+        - GloVe
+
+      6. Anomaly Detection
+        - Isolation Forest
+        - One-Class SVM
+
+      7. Self-Organizing Maps (SOM)
+      
+            - Projects:
+          
 
 ### Week 4: Cloud Platforms for Machine Learning
 - **Content:** Leverage cloud platforms for ML, including AWS, Azure, and GCP.
