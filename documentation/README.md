@@ -91,7 +91,7 @@
 - **Content:** Work on advanced AI projects, implementation, project management, web app integration, Arduino robotics.
 - **Skills:** Command implementation, project management, model integration, Arduino robotics.
 - **Resources:** Research articles, online conferences.
-- **Project:** Undertake a substantial AI project with focus on project management, implementation, integration, and robotics.
+- **Project:** Undertake a substantial AI project with a focus on project management, implementation, integration, and robotics.
 
 ### Module 16: Exploring Emerging AI Trends
 - **Content:** Explore emerging AI trends, including GPT models.
