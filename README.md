@@ -1,8 +1,8 @@
-# Master's in Computer Engineering and Automation (AI Focus) - 6-Month Personal Study Plan with Personal Project Implementation
+# Master's in Computer Engineering and Automation (AI Focus) - Personal Study Plan with Personal Project Implementation
 
-## Foundations (Weeks 1-2)
+## Foundations (Modules 1-2)
 
-### Week 1: Python and Math
+### Module 1: Python and Math
 - **Content:** Mastering Python fundamentals and mathematical concepts.
 - **Skills:** Proficient Python programming and strong mathematical foundation.
 - **Resources:** 
@@ -11,7 +11,7 @@
   - [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
 - **Practical Project:** Implement a basic math-related Python application.
 
-### Week 2: Scikit-Learn, Basic ML Models, EDA, and ML Practice Projects
+### Module 2: Scikit-Learn, Basic ML Models, EDA, and ML Practice Projects
 - **Content:** Exploring scikit-learn, basic ML models, EDA techniques, and hands-on ML projects.
 - **Skills:** EDA proficiency, understanding basic ML algorithms, and practical project experience.
 - **Resources:** 
@@ -21,9 +21,9 @@
 - **Basic ML Models:** Linear Regression, SVM, Decision Trees, Random Forest, Logistic Regression, Naive Bayes, KNN, Gradient Descent.
 - **Practical Project:** Apply basic ML models to a real dataset, perform EDA, and present findings.
 
-## Advanced ML and Cloud Platforms (Weeks 3-4)
+## Advanced ML and Cloud Platforms (Modules 3-4)
 
-### Week 3: Advanced ML with scikit-learn
+### Module 3: Advanced ML with scikit-learn
 - **Content:** Delving into advanced ML algorithms, ensembles, clustering, and dimensionality reduction.
 - **Skills:** Mastering advanced ML techniques and understanding ensemble methods.
 - **Resources:** 
@@ -31,7 +31,7 @@
   - [PapersWithCode](https://paperswithcode.com/)
 - **Practical Project:** Implement an ensemble model on a real-world dataset and compare its performance.
 
-### Week 4: Cloud Platforms for Machine Learning
+### Module 4: Cloud Platforms for Machine Learning
 - **Content:** Leveraging AWS, Azure, and GCP for ML, with a focus on deployment.
 - **Skills:** Mastering ML deployment on cloud platforms.
 - **Resources:** 
@@ -41,9 +41,9 @@
   - [AWS Hands-on Tutorial: Train Your ML Models with AWS Trainium and Amazon SageMaker](https://aws.amazon.com/fr/getting-started/hands-on/train-your-ml-models-with-aws-trainium-and-amazon-sagemaker/?ref=gsrchandson)
 - **Practical Project:** Deploy a machine learning model on AWS SageMaker with a provided dataset.
 
-## Automation and Deep Learning Basics (Weeks 5-6)
+## Automation and Deep Learning Basics (Modules 5-6)
 
-### Week 5: Git, Automation, and Intro to Deep Learning
+### Module 5: Git, Automation, and Intro to Deep Learning
 - **Content:** Commanding Git, exploring automation tools, understanding TensorFlow and PyTorch basics.
 - **Skills:** Proficiency in Git, applying automation to ML workflows, and basic deep learning understanding.
 - **Resources:** 
@@ -53,7 +53,7 @@
   - [PyTorch documentation](https://pytorch.org/tutorials/)
 - **Practical Project:** Set up version control with Git for a deep learning project, create a simple model using TensorFlow or PyTorch.
 
-### Week 6: Advanced Automation and Fundamentals of Deep Learning
+### Module 6: Advanced Automation and Fundamentals of Deep Learning
 - **Content:** Exploring advanced automation, PLC, and diving deeper into deep learning fundamentals.
 - **Skills:** Applying automation for ML workflows, understanding PLC, and experimenting with deep learning architectures.
 - **Resources:** 
@@ -62,68 +62,61 @@
   - Online courses and tutorials for deep learning.
 - **Practical Project:** Implement an end-to-end ML pipeline with automation tools for a specific use case, experiment with different deep learning architectures.
 
-## Advanced Deep Learning and Computer Vision (Weeks 7-8)
+## Advanced Deep Learning and Computer Vision (Modules 7-8)
 
-### Week 7: Advanced Deep Learning Techniques
+### Module 7: Advanced Deep Learning Techniques
 - **Content:** Exploring advanced deep learning techniques, transfer learning, and optimization.
 - **Skills:** Commanding advanced deep learning concepts, mastering transfer learning, and optimizing neural networks.
 - **Resources:** Specialized courses and research articles.
 - **Practical Project:** Implement transfer learning on a pre-trained model for a specific image classification task.
 
-### Week 8: Computer Vision Basics and OpenCV
+### Module 8: Computer Vision Basics and OpenCV
 - **Content:** Grasping computer vision fundamentals and mastering OpenCV.
 - **Skills:** Navigating computer vision basics and implementing applications using OpenCV.
 - **Resources:** Online courses, documentation, and tutorials.
 - **Practical Project:** Develop a computer vision application using OpenCV, showcasing image processing techniques for feature extraction and object recognition.
 
-## Advanced AI and Big Data (Weeks 9-10)
+## Advanced AI and Big Data (Modules 9-10)
 
-### Week 9: Advanced Generative AI and GANs
+### Module 9: Advanced Generative AI and GANs
 - **Content:** Delving into advanced generative AI, focusing on GANs and sequence models.
 - **Skills:** Mastering GANs and sequence models.
 - **Resources:** Explore specialized courses and research articles.
 - **Practical Project:** Implement a GAN for image generation or style transfer, experiment with sequence-to-sequence models for a natural language processing task.
 
-### Week 10: Introduction to Big Data in AI
+### Module 10: Introduction to Big Data in AI
 - **Content:** Grasping the basics of Big Data in the context of AI, with a focus on Apache Spark and Hadoop.
 - **Skills:** Mastering [Apache Spark](https://spark.apache.org/) and [Hadoop](https://hadoop.apache.org/).
 - **Resources:** [Apache Spark documentation](https://spark.apache.org/docs/latest/), [Hadoop tutorials](https://hadoop.apache.org/docs/stable/).
 - **Practical Project:** Process and analyze large-scale datasets using Apache Spark, implement ML algorithms on big data platforms.
 
-## GPT Models and Natural Language Processing (Weeks 11-12)
+## GPT Models and Natural Language Processing (NLP) (Modules 11-12)
 
-### Week 11: Model Evaluation, Hyperparameter Tuning, and API Deployment
+### Module 11: Model Evaluation, Hyperparameter Tuning, and API Deployment
 - **Content:** Exploring techniques for model evaluation and hyperparameter tuning, with a focus on NLP. Introduction to deploying models as APIs.
 - **Skills:** Commanding model evaluation and hyperparameter tuning in the context of NLP, exporting models as APIs.
 - **Resources:** Articles and documentation on model optimization for NLP.
 - **Practical Project:** Evaluate and fine-tune a pre-trained GPT model for a specific NLP task, deploy the model as an API.
 
-### Week 12: AI Ethics, History, and Current Applications
+### Module 12: AI Ethics, History, and Current Applications
 - **Content:** Reflecting on ethical considerations in AI, historical overview, and exploring current applications.
 - **Skills:** Developing skills in ethical decision-making and gaining historical understanding.
 - **Resources:** Attend lectures, read articles on AI ethics, and engage in historical research.
 - **Practical Project:** Explore and analyze the ethical implications of a real-world AI application.
 
-## Advanced Projects and Thesis Preparation (Weeks 13-16)
+## Advanced Projects (Modules 13-16)
 
-### Week 13-15: Tackling Advanced AI Projects with Web Application Integration
-- **Content:** Working on advanced AI projects, focusing on implementation, project management, and integrating models into web applications.
-- **Skills:** Commanding implementation, project management, and model integration into web applications.
+### Module 13-15: Tackling Advanced AI Projects with Web Application Integration and Arduino Robotics
+- **Content:** Working on advanced AI projects, focusing on implementation, project management, integrating models into web applications, and Arduino robotics.
+- **Skills:** Commanding implementation, project management, model integration into web applications, and Arduino robotics.
 - **Resources:** Research articles, online conferences, specialized blogs.
-- **Practical Project:** Undertake a substantial AI project with a focus on project management, implementation, and integration into a web application.
+- **Practical Project:** Undertake a substantial AI project with a focus on project management, implementation, integration into a web application, and Arduino robotics.
 
-### Week 16: Exploring Emerging AI Trends and Thesis Preparation
-- **Content:** Exploring emerging AI trends, including GPT models, and initiating thesis preparation.
-- **Skills:** Staying abreast of AI trends, initiating thesis research.
-- **Resources:** Research articles, online conferences, specialized blogs, and thesis guidelines.
-- **Practical Project:** Explore a cutting-edge AI trend, potentially incorporating GPT-based techniques, as a part of thesis preparation.
-
-## Thesis (Continued)
-
-### Ongoing: Thesis Research and Writing
-- **Tasks:** Conducting research, gathering data, and writing the thesis, potentially exploring GPT-based research.
-- **Skills:** Applying research and writing skills.
-- **Resources:** Utilizing academic journals and receiving guidance from the thesis advisor.
+### Module 16: Exploring Emerging AI Trends
+- **Content:** Exploring emerging AI trends, including GPT models.
+- **Skills:** Staying abreast of AI trends.
+- **Resources:** Research articles, online conferences, specialized blogs.
+- **Practical Project:** Explore a cutting-edge AI trend, potentially incorporating GPT-based techniques.
 
 ## Additional Important Topics
 
