@@ -1,4 +1,4 @@
-# Master's in Computer Engineering and Automation (AI Focus) - Personal Study Plan with Personal Project Implementation
+# Master's in Computer Engineering and Automation (AI Focus) - Personal Study Plan
 
 ## Foundations (Modules 1-2)
 
@@ -6,20 +6,20 @@
 - **Content:** Mastering Python fundamentals and mathematical concepts.
 - **Skills:** Proficient Python programming and strong mathematical foundation.
 - **Resources:** 
-  - [Coursera Python for Everybody](https://www.coursera.org/specializations/python)
-  - [Khan Academy - Math](https://www.khanacademy.org/math)
+  - [Coursera: Python for Everybody](https://www.coursera.org/specializations/python)
+  - [Khan Academy: Math](https://www.khanacademy.org/math)
   - [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
 - **Practical Project:** Implement a basic math-related Python application.
 
-### Module 2: Scikit-Learn, Basic ML Models, EDA, and ML Practice Projects
-- **Content:** Exploring scikit-learn, basic ML models, EDA techniques, and hands-on ML projects.
+### Module 2: Scikit-Learn, ML Models, EDA, and Practice
+- **Content:** Exploring scikit-learn, basic ML models, EDA techniques, and hands-on projects.
 - **Skills:** EDA proficiency, understanding basic ML algorithms, and practical project experience.
 - **Resources:** 
-  - Online courses focusing on EDA.
-  - [Scikit-learn documentation](https://scikit-learn.org/stable/documentation.html)
+  - Online courses for EDA.
+  - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
   - Introductory ML courses.
 - **Basic ML Models:** Linear Regression, SVM, Decision Trees, Random Forest, Logistic Regression, Naive Bayes, KNN, Gradient Descent.
-- **Practical Project:** Apply basic ML models to a real dataset, perform EDA, and present findings.
+- **Practical Project:** Apply ML models to a real dataset, perform EDA, and present findings.
 
 ## Advanced ML and Cloud Platforms (Modules 3-4)
 
@@ -27,18 +27,18 @@
 - **Content:** Delving into advanced ML algorithms, ensembles, clustering, and dimensionality reduction.
 - **Skills:** Mastering advanced ML techniques and understanding ensemble methods.
 - **Resources:** 
-  - [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
+  - [Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
   - [PapersWithCode](https://paperswithcode.com/)
 - **Practical Project:** Implement an ensemble model on a real-world dataset and compare its performance.
 
-### Module 4: Cloud Platforms for Machine Learning
+### Module 4: Cloud Platforms for ML
 - **Content:** Leveraging AWS, Azure, and GCP for ML, with a focus on deployment.
 - **Skills:** Mastering ML deployment on cloud platforms.
 - **Resources:** 
-  - Explore [AWS documentation](https://docs.aws.amazon.com/machine-learning/).
-  - Explore [Azure AI documentation](https://docs.microsoft.com/en-us/azure/ai/).
-  - Explore [Google Cloud AI documentation](https://cloud.google.com/ai).
-  - [AWS Hands-on Tutorial: Train Your ML Models with AWS Trainium and Amazon SageMaker](https://aws.amazon.com/fr/getting-started/hands-on/train-your-ml-models-with-aws-trainium-and-amazon-sagemaker/?ref=gsrchandson)
+  - Explore [AWS Documentation](https://docs.aws.amazon.com/machine-learning/).
+  - Explore [Azure AI Documentation](https://docs.microsoft.com/en-us/azure/ai/).
+  - Explore [Google Cloud AI Documentation](https://cloud.google.com/ai).
+  - [AWS Tutorial: Train Your ML Models with AWS Trainium and Amazon SageMaker](https://aws.amazon.com/fr/getting-started/hands-on/train-your-ml-models-with-aws-trainium-and-amazon-sagemaker/?ref=gsrchandson)
 - **Practical Project:** Deploy a machine learning model on AWS SageMaker with a provided dataset.
 
 ## Automation and Deep Learning Basics (Modules 5-6)
@@ -47,14 +47,14 @@
 - **Content:** Commanding Git, exploring automation tools, understanding TensorFlow and PyTorch basics.
 - **Skills:** Proficiency in Git, applying automation to ML workflows, and basic deep learning understanding.
 - **Resources:** 
-  - [Git and GitHub courses](https://lab.github.com/)
+  - [Git and GitHub Courses](https://lab.github.com/)
   - Automation tools introduction.
-  - [TensorFlow documentation](https://www.tensorflow.org/learn)
-  - [PyTorch documentation](https://pytorch.org/tutorials/)
+  - [TensorFlow Documentation](https://www.tensorflow.org/learn)
+  - [PyTorch Documentation](https://pytorch.org/tutorials/)
 - **Practical Project:** Set up version control with Git for a deep learning project, create a simple model using TensorFlow or PyTorch.
 
-### Module 6: Advanced Automation and Fundamentals of Deep Learning
-- **Content:** Exploring advanced automation, PLC, and diving deeper into deep learning fundamentals.
+### Module 6: Advanced Automation and Deep Learning Fundamentals
+- **Content:** Exploring advanced automation, PLC, and diving deeper into deep learning.
 - **Skills:** Applying automation for ML workflows, understanding PLC, and experimenting with deep learning architectures.
 - **Resources:** 
   - Advanced automation tools and practices.
@@ -87,13 +87,13 @@
 ### Module 10: Introduction to Big Data in AI
 - **Content:** Grasping the basics of Big Data in the context of AI, with a focus on Apache Spark and Hadoop.
 - **Skills:** Mastering [Apache Spark](https://spark.apache.org/) and [Hadoop](https://hadoop.apache.org/).
-- **Resources:** [Apache Spark documentation](https://spark.apache.org/docs/latest/), [Hadoop tutorials](https://hadoop.apache.org/docs/stable/).
+- **Resources:** [Apache Spark Documentation](https://spark.apache.org/docs/latest/), [Hadoop Tutorials](https://hadoop.apache.org/docs/stable/).
 - **Practical Project:** Process and analyze large-scale datasets using Apache Spark, implement ML algorithms on big data platforms.
 
-## GPT Models and Natural Language Processing (NLP) (Modules 11-12)
+## Reinforcement Learning and Natural Language Processing (Modules 11-12)
 
 ### Module 11: Model Evaluation, Hyperparameter Tuning, and API Deployment
-- **Content:** Exploring techniques for model evaluation and hyperparameter tuning, with a focus on NLP. Introduction to deploying models as APIs.
+- **Content:** Exploring techniques for model evaluation, hyperparameter tuning, with a focus on NLP. Introduction to deploying models as APIs.
 - **Skills:** Commanding model evaluation and hyperparameter tuning in the context of NLP, exporting models as APIs.
 - **Resources:** Articles and documentation on model optimization for NLP.
 - **Practical Project:** Evaluate and fine-tune a pre-trained GPT model for a specific NLP task, deploy the model as an API.
@@ -106,7 +106,7 @@
 
 ## Advanced Projects (Modules 13-16)
 
-### Module 13-15: Tackling Advanced AI Projects with Web Application Integration and Arduino Robotics
+### Modules 13-15: Tackling Advanced AI Projects with Web Application Integration and Arduino Robotics
 - **Content:** Working on advanced AI projects, focusing on implementation, project management, integrating models into web applications, and Arduino robotics.
 - **Skills:** Commanding implementation, project management, model integration into web applications, and Arduino robotics.
 - **Resources:** Research articles, online conferences, specialized blogs.
