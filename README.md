@@ -1,4 +1,4 @@
-# Master's in Computer Engineering and Automation (AI Focus) - Personal Study Plan
+# Master's in Computer Engineering and Automation (AI Focus) - Personal projects Implementation Plan
 
 ## Foundations (Modules 1-2)
 
