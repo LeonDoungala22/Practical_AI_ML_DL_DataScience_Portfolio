@@ -20,13 +20,10 @@ Explore patterns and reduce dimensionality in the Human Resources Analytics data
 - Apply PCA to explore patterns in employee-related features.
 - Determine an appropriate number of principal components.
 
-### 4. Dimensionality Reduction
-- Evaluate the impact of PCA on reducing dimensionality.
-- Consider the significance of each principal component.
-
 ### 5. Visualization
 - Visualize the dataset before and after PCA.
 - Use scatter plots or other suitable visualizations.
+- Utilize the k-means algorithm to partition data into distinct clusters.
 
 ### 6. Correlation Circle
 - Add a Correlation Circle to visually represent the relationships between variables.
