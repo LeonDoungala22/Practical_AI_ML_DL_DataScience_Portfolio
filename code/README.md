@@ -30,13 +30,6 @@
 - **Skills:** Mastery of advanced ML techniques, ensemble models, and clustering strategies.
 - **Resources:** [Coursera ML Specialization](https://www.coursera.org/specializations/machine-learning) | [PapersWithCode](https://paperswithcode.com/).
 - **Project:** Implement sophisticated ensemble models.
-
-### **Module 4: Cloud Platforms for ML <span style="color: #5e8eae;">☁️🧠</span>**
-- **Content:** Harness the power of AWS, Azure, and GCP for ML, with a special focus on deployment.
-- **Skills:** Proficiency in deploying ML models on cloud platforms.
-- **Resources:** [AWS Documentation](https://docs.aws.amazon.com/machine-learning/) | [Azure AI Documentation](https://docs.microsoft.com/en-us/azure/ai/) | [Google Cloud AI Documentation](https://cloud.google.com/ai).
-- **Project:** Deploy an ML model on AWS SageMaker.
-
 ---
 
 ## **Automation and Deep Learning Basics (Modules 5-6)**
@@ -68,7 +61,12 @@
 - **Skills:** Navigate the basics of computer vision and implement applications using OpenCV.
 - **Resources:** Engaging online courses and comprehensive documentation.
 - **Project:** Develop a computer vision application using OpenCV.
-
+----
+### **Module 4: Cloud Platforms for ML <span style="color: #5e8eae;">☁️🧠</span>**
+- **Content:** Harness the power of AWS, Azure, and GCP for ML, with a special focus on deployment.
+- **Skills:** Proficiency in deploying ML models on cloud platforms.
+- **Resources:** [AWS Documentation](https://docs.aws.amazon.com/machine-learning/) | [Azure AI Documentation](https://docs.microsoft.com/en-us/azure/ai/) | [Google Cloud AI Documentation](https://cloud.google.com/ai).
+- **Project:** Deploy an ML model on AWS SageMaker.
 ---
 
 ## **Data Visualization (Module 8.1)**
