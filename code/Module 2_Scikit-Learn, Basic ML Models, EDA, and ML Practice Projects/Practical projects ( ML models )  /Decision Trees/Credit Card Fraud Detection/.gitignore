@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment
+venv/
+env/
+ENV/
+
+
+# Data files
+*.csv
+*.xls
+*.xlsx
+*.db
+*.sqlite3
+
+
+# Model files
+models/
+*.pkl
+*.h5
+*.joblib
+*.model
+
+# Logs
+logs/
+*.log
+
+# Images and other media
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+
+# Documentation
+docs/
+*.pdf
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Custom CV files
+CV/
+resume/
+*cv.*
+*resume.*
+
+# Credentials
+.env
+credentials.json
+config.ini
